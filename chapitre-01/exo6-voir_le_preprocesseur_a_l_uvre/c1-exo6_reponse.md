@@ -1,1 +1,1 @@
-Le fichier généré contient jusqu'a 1071 lignes de code, comparé au fichier bonjour.cpp qui n'a que 6 lignes de code. Cette différence est du au fait que le préprocesseur remplace la directive #include <iostream> par l'intégralité du contenu de la bibliotheque iostream.
+Le fichier généré contient jusqu'a 1071 lignes de code, comparé au fichier bonjour.cpp qui n'a que 6 lignes de code. Cette différence est du au fait que le préprocesseur remplace la directive #include <cstdio> par l'intégralité du contenu de la bibliotheque cstdio.
