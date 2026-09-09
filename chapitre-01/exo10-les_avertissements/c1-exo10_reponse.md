@@ -1,0 +1,1 @@
+Une erreur est un élement qui empeche la compilation du code source, pour tant un avertissement est donné pour un element qui n'empeche pas la compilation, mais pourrait affechter la qualité du programme final.
