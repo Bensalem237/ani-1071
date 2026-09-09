@@ -1,0 +1,1 @@
+On peut conclure que le nom du programme exécutable est exclusivement déterminé par l'argument passé à -o dans la commande de compilation, et qu'il n'y a aucun lien obligatoire entre le nom du fichier source et le nom du programme exécutable.
