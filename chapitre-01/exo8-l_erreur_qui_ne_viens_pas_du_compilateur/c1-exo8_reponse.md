@@ -1,0 +1,1 @@
+Le premiere command réussit et la deuxième échoue, car avec la première commande, le processus s'arrete juste après le compilator, donc il n'y pas d'édition de liens or avec le processus complet, il y a erreur au niveau de l'edition de liens étant donné que la fonction n'a été définie nulle part.
